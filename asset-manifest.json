@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gemechu/static/css/main.d0642770.css",
-    "main.js": "/Gemechu/static/js/main.2149e3da.js",
+    "main.css": "/Gemechu/static/css/main.a0d2e11c.css",
+    "main.js": "/Gemechu/static/js/main.899687d5.js",
     "static/media/cv.pdf": "/Gemechu/static/media/cv.57e1f285553e54ade597.pdf",
     "static/media/me.png": "/Gemechu/static/media/me.98f180f32f74a3aa26d0.png",
     "index.html": "/Gemechu/index.html",
-    "main.d0642770.css.map": "/Gemechu/static/css/main.d0642770.css.map",
-    "main.2149e3da.js.map": "/Gemechu/static/js/main.2149e3da.js.map"
+    "main.a0d2e11c.css.map": "/Gemechu/static/css/main.a0d2e11c.css.map",
+    "main.899687d5.js.map": "/Gemechu/static/js/main.899687d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0642770.css",
-    "static/js/main.2149e3da.js"
+    "static/css/main.a0d2e11c.css",
+    "static/js/main.899687d5.js"
   ]
 }
