@@ -25,7 +25,6 @@ const Footer = () => {
         <a href='facebook.com'><FiInstagram/></a>
         <a href='facebook.com'><IoLogoTwitter/></a>
       </div>
-
       <div className='footer_copyright'>
         <small>&copy; CrisprG Inc. All rights reserved.</small> <br></br>
         <FaHandHoldingHeart/>

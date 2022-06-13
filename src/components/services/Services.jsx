@@ -60,15 +60,16 @@ const Services = () => {
                 <BiCheck className='service_list-icon'/>
                 <p>Wireshark </p>
             </li>
+            <li>
+                <BiCheck className='service_list-icon'/>
+                <p>Redundant Circuit</p>
+            </li>
             
             <li>
                 <BiCheck className='service_list-icon'/>
                 <p>Metasploit - Malware Evasion </p>
             </li>
-            <li>
-                <BiCheck className='service_list-icon'/>
-                <p>Intel NUC - firmware caching server </p>
-            </li>
+            
             <li>
                 <BiCheck className='service_list-icon'/>
                 <p>Networking TCP-IP-DNS-DHCP-VLAN</p> <br></br>
